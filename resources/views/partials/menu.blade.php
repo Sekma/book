@@ -26,7 +26,8 @@
                         {{Auth::user()->name}}</a>
                         </li>
                         <li class="nav-item mx-3">
-                            <a class="nav-link active text-danger" href="{{route('logout')}}">logout</a>
+                            <!-- Button trigger modal -->
+                            <a type="button" class="nav-link active text-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">logout</a>
                         </li>
                     </ul>
                 @else    
@@ -41,3 +42,24 @@
                  </div>
               
 </nav>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Déconnexion</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+      Êtes-vous sûr de vouloir vous déconnecter ?
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+        <a type="button" class="btn btn-danger" href="{{route('logout')}}">Déconnecter</a>
+      </div>
+    </div>
+  </div>
+</div>
