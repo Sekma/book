@@ -50,4 +50,4 @@ dans la page "Edit Book", vous modifiez les champs, puis vous cliquez sur le bou
 
 ## Delete
 Pour supprimer un livre, vous cliquez sue le bouton "Delete".<br><br>
-<img src="https://github.com/Sekma/book/blob/main/img_interface/back_create_book.jpeg" width="45%" alt="">
+<img src="https://github.com/Sekma/book/blob/main/img_interface/back_delete_book.jpeg" width="45%" alt="">
