@@ -9,7 +9,7 @@
 
 # Book
 Book est un catalogue contient une liste des livres de différents genres et écrits par différents auteurs.<br><br>
-## Page d'acceuil
+## Page d'accueil
 
 La page d'accueil de cette application affiche la liste comptète de ces livres:
 <br><br>
