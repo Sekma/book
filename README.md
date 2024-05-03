@@ -22,6 +22,7 @@ On peut aussi les afficher par auteur, en choisissant l'auteur (liste des auteur
 <img src="https://github.com/Sekma/book/blob/main/img_interface/front_author.jpeg" width="50%" alt=""><br><br>
 ## Partie Admin
 ### Login & Logout
+Pour modifier le contenu du catalogue, if faut accéder au partie Admin en cliquant sur le bouton Admin, et remplire les champs necessaire (email, password).
 <div display:inline-block>
     <img src="https://github.com/Sekma/book/blob/main/img_interface/login.jpeg" width="45%" align=center alt="">
     <img src="https://github.com/Sekma/book/blob/main/img_interface/logout.jpeg" width="45%" align=center alt="">
