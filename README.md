@@ -10,24 +10,16 @@
 # Book
 Book est un catalogue contient une liste des livres de différents genres et écrits par différents auteurs.<br><br>
 ## Page d'accueil
-La page d'accueil de cette application nous affiche la liste comptète de ces livres:<br><br>
+La page d'accueil de cette application nous affiche la liste comptète des livres:<br><br>
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" width="50%" alt=""><br><br>
-On cliquant sur un livre, ça nous affiche tous les details sur le livre: Titre,Genre, Description, Auteur(s)....<br><br>
+On cliquant sur un livre, ça nous affiche tous les details sur le livre: Titre, Description, Auteur(s)....<br><br>
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg" alt=""><br><br>
-
-        
-        
-   
-
-
 ## Genre
-On peut afficher les livres par genre, en choisissant le genre et en cliquant dessus (dans la barre de navigation).
-<br><br>
-<img src="https://github.com/Sekma/book/blob/main/img_interface/front_genre.jpeg" alt="">
+On peut afficher les livres par genre, en choisissant le genre et en cliquant dessus (dans la barre de navigation).<br><br>
+<img src="https://github.com/Sekma/book/blob/main/img_interface/front_genre.jpeg" width="50%" alt=""><br><br>
 ## Auteur
-On peut aussi les afficher par auteur, en choisissant l'auteur (liste des auteurs).
-<br><br>
-<img src="https://github.com/Sekma/book/blob/main/img_interface/front_author.jpeg" alt="">
+On peut aussi les afficher par auteur, en choisissant l'auteur (liste des auteurs).<br><br>
+<img src="https://github.com/Sekma/book/blob/main/img_interface/front_author.jpeg" width="50%" alt=""><br><br>
 
 
 
