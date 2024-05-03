@@ -25,9 +25,10 @@ On peut aussi les afficher par auteur, en choisissant l'auteur (liste des auteur
 Pour accéder au partie Admin et modifier le contenu du catalogue, if faut se connecter en cliquant sur le bouton "Login", et remplire les champs necessaire (email, password).<br>
 Et pour la déconnexion, il suffit de cliquer sur "Logout" et confirmer la déconnexion.
 <div display:inline-block>
-    <img src="https://github.com/Sekma/book/blob/main/img_interface/login.jpeg" width="45%" align=center alt="">
-    <img src="https://github.com/Sekma/book/blob/main/img_interface/logout.jpeg" width="45%" align=center alt="">
+    <img src="https://github.com/Sekma/book/blob/main/img_interface/login.jpeg" width="45%" align=left alt="">
+    <img src="https://github.com/Sekma/book/blob/main/img_interface/logout.jpeg" width="45%" align=right alt="">
 </div>
+
 ## Accueil - Admin
 ### Liste & Details
 La page d'accueil du partie Admin nous affiche la liste comptète des livres.<br>
