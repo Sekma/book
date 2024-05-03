@@ -27,7 +27,7 @@ Et pour la déconnexion, il suffit de cliquer sur "Logout" et confirmer la déco
 <div display:inline-block>
     <img src="https://github.com/Sekma/book/blob/main/img_interface/login.jpeg" width="45%" align=left alt="">
     <img src="https://github.com/Sekma/book/blob/main/img_interface/logout.jpeg" width="45%" align=right alt="">
-</div>
+</div><br><br>
 
 ## Accueil - Admin
 ### Liste & Details
