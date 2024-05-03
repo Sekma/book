@@ -28,3 +28,11 @@ Et pour la déconnexion, il suffit de cliquer sur "Logout" et confirmer la déco
     <img src="https://github.com/Sekma/book/blob/main/img_interface/login.jpeg" width="45%" align=center alt="">
     <img src="https://github.com/Sekma/book/blob/main/img_interface/logout.jpeg" width="45%" align=center alt="">
 </div>
+## Accueil - Admin
+### Liste & Details
+La page d'accueil du partie Admin nous affiche la liste comptète des livres.<br>
+En cliquant sur un livre, ça nous affiche les detailts<br>
+<div display:inline-block>
+    <img src="https://github.com/Sekma/book/blob/main/img_interface/back_home.jpeg" width="45%" align=center alt="">
+    <img src="https://github.com/Sekma/book/blob/main/img_interface/back_show_book.jpeg" width="45%" align=center alt="">
+</div>
