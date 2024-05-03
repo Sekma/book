@@ -63,3 +63,6 @@ Pour supprimer un livre, vous cliquez sue le bouton "Delete".<br><br>
   <img align="center" alt="Rafa-mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-vscode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div><br><hr>
+
+# Auteur
+<a href="https://github.com/Sekma">- Sekma Mohamed Hedi<a/>
