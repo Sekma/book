@@ -22,6 +22,7 @@ La page d'accueil de cette application nous affiche la liste comptète de ces li
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg" alt="">
     </div>
 </div>
+
 ## Genre
 On peut afficher les livres par genre, en choisissant le genre et en cliquant dessus (dans la barre de navigation).
 <br><br>
