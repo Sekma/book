@@ -14,7 +14,7 @@ La page d'accueil de cette application nous affiche la liste comptète des livre
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" width="50%" alt=""><br><br>
 On cliquant sur un livre, ça nous affiche tous les details sur le livre: Titre, Description, Auteur(s)....<br><br>
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg" alt=""><br><br>
-## Genre
+### Genre
 On peut afficher les livres par genre, en choisissant le genre et en cliquant dessus (dans la barre de navigation).<br><br>
 <img src="https://github.com/Sekma/book/blob/main/img_interface/front_genre.jpeg" width="50%" alt=""><br><br>
 ## Auteur
