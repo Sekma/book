@@ -8,8 +8,8 @@
 </p>
 
 ## Book
-Book est un catalogue contient une liste des livres de différents genres et écrits par différents auteurs.
-Cette application peut nous présenter la liste comptète de ces livres:
+Book est un catalogue contient une liste des livres de différents genres et écrits par différents auteurs.<br>
+La page d'accueil de cette application affiche la liste comptète de ces livres:
 <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" alt="License">
   ou bien les filtrer 
 
