@@ -31,8 +31,8 @@ Et pour la déconnexion, il suffit de cliquer sur "Logout" et confirmer la déco
 
 ## Accueil - Admin
 ### Liste & Details
-La page d'accueil du partie Admin nous affiche la liste comptète des livres.<br>
-En cliquant sur un livre, ça nous affiche les detailts<br><br>
+La page d'accueil du partie Admin nous affiche la liste comptète des livres dabs un tableau.<br>
+En cliquant sur le bouton "Show" dans le tableau, ça nous affiche les detailts<br><br>
 <div display:inline-block>
     <img src="https://github.com/Sekma/book/blob/main/img_interface/back_home.jpeg" width="45%" alt="">
     <img src="https://github.com/Sekma/book/blob/main/img_interface/back_show_book.jpeg" width="45%" align=right alt="">
@@ -46,4 +46,8 @@ dans la page "Edit Book", vous modifiez les champs, puis vous cliquez sur le bou
 <div display:inline-block>
     <img src="https://github.com/Sekma/book/blob/main/img_interface/back_create_book.jpeg" width="45%" alt="">
     <img src="https://github.com/Sekma/book/blob/main/img_interface/back_edit_book.jpeg" width="45%" align=right alt="">
-</div>
+</div><br><br>
+
+## Delete
+Pour supprimer un livre, vous cliquez sue le bouton "Delete".<br><br>
+<img src="https://github.com/Sekma/book/blob/main/img_interface/back_create_book.jpeg" width="45%" alt="">
