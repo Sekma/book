@@ -13,11 +13,11 @@ Book est un catalogue contient une liste des livres de différents genres et éc
 
 La page d'accueil de cette application nous affiche la liste comptète de ces livres:
 <br><br>
-<div style="display: inline_block"><br>
-    <div  align="center"  width="40%">
-        <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" align="center" width="40%"  alt="">
+<div style="display: flex"><br>
+    <div  width="40%">
+        <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" align="center"  alt="">
     </div>
-    <div  align="center"  width="40%">
+    <div width="40%">
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg" alt="">
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg" alt="">
     </div>
