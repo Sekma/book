@@ -14,12 +14,13 @@ La page d'accueil de cette application nous affiche la liste comptète des livre
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" width="50%" alt=""><br><br>
 On cliquant sur un livre, ça nous affiche tous les details sur le livre: Titre, Description, Auteur(s)....<br><br>
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg" alt=""><br><br>
-### Genre
+## Genre
 On peut afficher les livres par genre, en choisissant le genre et en cliquant dessus (dans la barre de navigation).<br><br>
 <img src="https://github.com/Sekma/book/blob/main/img_interface/front_genre.jpeg" width="50%" alt=""><br><br>
 ## Auteur
 On peut aussi les afficher par auteur, en choisissant l'auteur (liste des auteurs).<br><br>
 <img src="https://github.com/Sekma/book/blob/main/img_interface/front_author.jpeg" width="50%" alt=""><br><br>
-
-
-
+## Partie Admin
+### Login & Logout
+<img src="https://github.com/Sekma/book/blob/main/img_interface/login.jpeg" width="45%" alt="">
+<img src="https://github.com/Sekma/book/blob/main/img_interface/logout.jpeg" width="45%" alt="">
