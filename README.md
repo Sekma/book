@@ -41,7 +41,7 @@ En cliquant sur un livre, ça nous affiche les detailts<br><br>
 ## Create - Edit
 Pour créer un nouveau livre, vous cliquez sur le bouton "Ajouter un livre" (en haut à gauche de la page d'acceuil-admin),
 dans la page "Create Book", vous remplissez les champs necessaire, puis vous cliquez sur le bouton "Ajouter un livre" (en haut à gauche de la page).<br>
-Pour modifier un livre, cliquez sur le bouton <span class="fa fa-edit" aria-hidden="true"></span>.<br><br>
+Pour modifier un livre, cliquez sur le bouton<br> <span class="fa fa-edit" aria-hidden="true"></span>.<br><br>
 <div display:inline-block>
     <img src="https://github.com/Sekma/book/blob/main/img_interface/back_home.jpeg" width="45%" alt="">
     <img src="https://github.com/Sekma/book/blob/main/img_interface/back_show_book.jpeg" width="45%" align=right alt="">
