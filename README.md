@@ -16,8 +16,8 @@ La page d'accueil de cette application nous affiche la liste comptète de ces li
 <div style="display: inline_block"><br>
     <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" align="center" width="40%"  alt="">
     <div  align="center">
-        <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg" width="40%" alt="">
-        <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg" width="40%" alt="">
+        <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg"  align="center" width="40%" alt="">
+        <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg"  align="center" width="40%" alt="">
     </div>
 </div>
 ## Genre
