@@ -65,4 +65,4 @@ Pour supprimer un livre, vous cliquez sue le bouton "Delete".<br><br>
 </div><br><hr>
 
 # Auteur
-<a href="https://github.com/Sekma">- Sekma Mohamed Hedi<a/>
+- Sekma Mohamed Hedi <a href="https://github.com/Sekma">@Sekma<a/>
