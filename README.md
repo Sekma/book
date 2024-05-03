@@ -9,11 +9,12 @@
 
 # Book
 Book est un catalogue contient une liste des livres de différents genres et écrits par différents auteurs.<br><br>
-## Page d'accueil
 
-La page d'accueil de cette application nous affiche la liste comptète de ces livres:
 <br><br>
     <div style="width:40%">
+    ## Page d'accueil
+
+La page d'accueil de cette application nous affiche la liste comptète de ces livres:
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" width="40%" alt="">
     </div>
     <div style="display:flex; flex-direction:column; justify-content:center; align-item:center; width:200px">
