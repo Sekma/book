@@ -22,5 +22,7 @@ On peut aussi les afficher par auteur, en choisissant l'auteur (liste des auteur
 <img src="https://github.com/Sekma/book/blob/main/img_interface/front_author.jpeg" width="50%" alt=""><br><br>
 ## Partie Admin
 ### Login & Logout
-<img src="https://github.com/Sekma/book/blob/main/img_interface/login.jpeg" width="45%" alt="">
-<img src="https://github.com/Sekma/book/blob/main/img_interface/logout.jpeg" width="45%" alt="">
+<div display:inline-block>
+    <img src="https://github.com/Sekma/book/blob/main/img_interface/login.jpeg" width="45%" alt="">
+    <img src="https://github.com/Sekma/book/blob/main/img_interface/logout.jpeg" width="45%" alt="">
+</div>
