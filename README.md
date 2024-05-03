@@ -14,11 +14,11 @@ Book est un catalogue contient une liste des livres de différents genres et éc
 La page d'accueil de cette application nous affiche la liste comptète de ces livres:
 <br><br>
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_home.jpeg" width="40%" alt="">
-    <div align="right">
+    
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg"   width="40%" alt="">
         <img src="https://github.com/Sekma/book/blob/main/img_interface/front_show_book.jpeg"   width="40%" alt="">
-    </div>
-</div>
+   
+
 
 ## Genre
 On peut afficher les livres par genre, en choisissant le genre et en cliquant dessus (dans la barre de navigation).
